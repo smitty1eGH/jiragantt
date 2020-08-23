@@ -1,0 +1,5 @@
+* jiragantt
+
+Transform Jira .csv output to LaTeX, a .pdf, and eventually a .png
+
+Contact: Chris Smith at smitty1e@gmail.com
